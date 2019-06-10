@@ -1,0 +1,16 @@
+language: python
+python:
+    - 3.6
+install:
+    - pip install coverage
+branches:
+    only:
+        - master
+        - develop
+
+addons:
+    sonarcloud:
+        organization: "usdot-jpo-sdc"
+script: 
+    - coverage erase
+    - sonar-scanner -X -D sonar.login=$SONAR_TOKEN
