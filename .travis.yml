@@ -6,7 +6,6 @@ install:
 branches:
     only:
         - master
-        - develop
 
 addons:
     sonarcloud:
