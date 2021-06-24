@@ -6,10 +6,10 @@ install:
 branches:
     only:
         - master
-
+        - SDC-3960
 addons:
     sonarcloud:
-        organization: "usdot-jpo-sdc"
+        organization: "kbrpurchase1"
 script: 
     - coverage erase
     - sonar-scanner -X -D sonar.login=$SONAR_TOKEN
