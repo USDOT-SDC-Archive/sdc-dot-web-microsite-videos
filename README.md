@@ -1,6 +1,10 @@
 [![Build Status](https://travis-ci.com/USDOT-SDC/sdc-dot-web-microsite-videos.svg?branch=master)](https://travis-ci.com/USDOT-SDC/sdc-dot-web-microsite-videos)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=KBRPurchase1_sdc-dot-web-microsite-videos&metric=alert_status)](https://sonarcloud.io/dashboard?id=KBRPurchase1_sdc-dot-web-microsite-videos)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=KBRPurchase1_sdc-dot-web-microsite-videos&metric=coverage)](https://sonarcloud.io/dashboard?id=KBRPurchase1_sdc-dot-web-microsite-videos)
+
+## Archived
+This repo has been archived. The the videos have been moved to Confluence: Secure Data Commons -> Shared Services -> SDC Microsite Support -> [SDC Microsite Videos](https://securedatacommons.atlassian.net/wiki/spaces/SD/pages/2872016897)
+
 # sdc-dot-web-microsite-videos
 
 Training and instructional videos to support SDC Microsite
